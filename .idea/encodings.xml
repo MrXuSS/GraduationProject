@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dw-cancal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-chart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-chart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-mocker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flume-interceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hive-function/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
